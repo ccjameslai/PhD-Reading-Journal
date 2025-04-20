@@ -27,7 +27,7 @@
 
 ## 🧩 二、ToMnet 架構與訓練流程
 
-![architecture_diagram](D:\James\PhD\PhD-Reading-Journal\papers\2018_arXiv_Rabinowitz_ToMnet\architecture_diagram.png)
+![architecture_diagram](/papers/2018_arXiv_Rabinowitz_ToMnet/architecture_diagram.png)
 
 | 模組               | 功能                                          |
 | ------------------ | --------------------------------------------- |
