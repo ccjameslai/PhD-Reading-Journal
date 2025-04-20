@@ -1,5 +1,3 @@
-[TOC]
-
 # 📘 Machine Theory of Mind (ToMnet)
 
 - **Authors**: Rabinowitz et al.
