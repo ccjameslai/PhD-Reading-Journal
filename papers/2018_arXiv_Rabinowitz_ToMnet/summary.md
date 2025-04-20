@@ -68,6 +68,8 @@ This is one of the foundational works that bridges cognitive science concepts (T
 
 ### ✅ Key Inspiration Points
 
+- Learn beliefs through a small amount of action data
+- Predict the next action based on these learned beliefs
 - Neural network as meta-theory of other agents
 - Compact agent embedding (`e_char`) → possible to condition other models on it
 - Predicting false belief is a fascinating cognitive alignment
