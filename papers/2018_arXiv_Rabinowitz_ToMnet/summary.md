@@ -71,7 +71,7 @@ This is one of the foundational works that bridges cognitive science concepts (T
 - Learn beliefs through a small amount of action data
 - Predict the next action based on these learned beliefs
 - Neural network as meta-theory of other agents
-- Compact agent embedding (`e_char`) → possible to condition other models on it
+- Compact agent embedding ($e_{char}$) → possible to condition other models on it
 - Predicting false belief is a fascinating cognitive alignment
 
 ### ✅ Possible Pitfalls
@@ -93,13 +93,14 @@ This is one of the foundational works that bridges cognitive science concepts (T
 
 ### ✅ Next actions
 
-1. 改用transformer來取代ToMnet
-2. ToMnet 是否適合用於我的人機協作場景？ (動作變異性低但資料少）
-3. 如果我要讓 AI 解釋自己的 belief 推論，需要怎樣的表徵方式？
+1. 將 $e_{char}$ 改用認知偏誤
+2. 改用transformer來取代ToMnet
+3. ToMnet 是否適合用於我的人機協作場景？ (動作變異性低但資料少）
 4. 有無可能將 ToMnet 與 LLM 結合，做信念推理 + 策略生成？
-5. 如何針對錯誤信念進行對話式修正？這是否可應用於教學機器人？
-6. 若做 cross-agent generalization，如何處理 belief update 的轉移問題？
-7. Extend ToMnet to **multi-modal observation**: vision + trajectory
-8. Use e_char as a conditioning factor in **collaborative policy learning**
-9. Embed ToMnet-style belief inference into **inverse RL** pipeline
+5. 如果我要讓 AI 解釋自己的 belief 推論，需要怎樣的表徵方式？
+6. 如何針對錯誤信念進行對話式修正？這是否可應用於教學機器人？
+7. 若做 cross-agent generalization，如何處理 belief update 的轉移問題？
+8. Extend ToMnet to **multi-modal observation**: vision + trajectory
+9. Use e_char as a conditioning factor in **collaborative policy learning**
+10. Embed ToMnet-style belief inference into **inverse RL** pipeline
 
