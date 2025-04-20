@@ -18,7 +18,7 @@ This repository contains my structured notes and code implementations for academ
 
 | Paper | Note | Code |
 |-------|------|------|
-| Rabinowitz et al., 2018 (ToMnet) | [Note](papers/2018_arXiv_Rabinowitz_ToMnet/summary.md) | [Code](papers/code/) |
+| Rabinowitz et al., 2018 (ToMnet) | [Note](papers/2018_arXiv_Rabinowitz_ToMnet/summary.md) | [Code](papers/2018_arXiv_Rabinowitz_ToMnet/code/) |
 | Zhao et al., 2024 (AutoToM) | [Note]() | [Code]() |
 
 ## 🛠️ Work in Progress
